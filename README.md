@@ -1,23 +1,15 @@
-# Library-Management-System
-## Student Information
-- **Name:** [Your Name]
-- **Course:** [Your Course]
-- **Year:** First Year
-- **Assignment:** OOP Library Management System
+# Online Library Management System
 
-## Project Description
-A C++ Library Management System using Object-Oriented Programming principles with three main classes: Book, User, and Library.
+**Name:** Rachael Waturi  
+**Course:** BSD 122 – Object-Oriented Programming 1  
+**Year:** First Year  
+**Assignment:** Assignment 1  
 
-## Features
-✅ Add, remove, and search books  
-✅ Add users and display user list  
-✅ Borrow and return books  
-✅ Check book availability  
-✅ Simple menu interface  
+## Overview
+This project is a console-based Online Library Management System developed in C++ using Object-Oriented Programming (OOP) principles.  
+The system allows management of books and users, including borrowing and returning of books.
 
-## How to Compile and Run
-### On Windows:
-1. Save all files in one folder
-2. Double-click `compile.bat`
-3. Double-click `library.exe`
-
+## OOP Concepts Used
+- Classes and Objects
+- Encapsulation
+- Separation of responsibilities
