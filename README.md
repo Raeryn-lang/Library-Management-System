@@ -13,3 +13,21 @@ The system allows management of books and users, including borrowing and returni
 - Classes and Objects
 - Encapsulation
 - Separation of responsibilities
+## Features
+- Add new books to the library
+- Remove books from the library
+- Search for books by title or author
+- Register users
+- Borrow books
+- Return books
+- ## How to Compile and Run
+
+### Requirements
+- C++ compiler (g++)
+
+### Steps
+1. Open a terminal or command prompt in the project folder
+2. Compile the program:
+   ```sh
+   g++ "library system.cpp" -o library
+   ./library
